@@ -40,10 +40,8 @@ Acima de 50 anos: 50,00
 Faça um programa que leia a idade e sexo do cliente, e imprima o<br>
 valor da mensalidade que o mesmo deve pagar.
 
-Corrija todos os bugs.
-Utilize o paradigma de POO para realizar a refatoração da solução existente.<br>.
-
-```
+Corrija todos os bugs.<br>
+Utilize o paradigma de POO para realizar a refatoração da solução existente.
 
 ### Orientações Finais
 
