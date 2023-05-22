@@ -14,7 +14,9 @@ Leia atentamente o contexto a seguir, e em seguida desenvolva a solução propos
 ### Contexto:
 
 "A Academia do Bairro resolveu contratar uma pessoa desenvolvedora para criar uma solução em Java<br>
-que auxilie no controle de mensalidades dos(as) seus(uas) alunos(as).
+que auxilie no controle de mensalidades dos(as) seus(uas) alunos(as).<br>
+O programa deverá ler os dados dos clientes e aplicar a mensalidade para eles.<br>
+No final deverá imprimir o nome do(a) cliente e o valor da mensalidade que deverá ser paga.<br>
 Regra de Negócio para as mensalidades:
 "
 
@@ -37,11 +39,15 @@ de 41 a 50 anos: 65,00
 Acima de 50 anos: 50,00
 ~~~
 
-Faça um programa que leia a idade e sexo do cliente, e imprima o<br>
-valor da mensalidade que o mesmo deve pagar.
+A primeira pessoa contratada já começou a desenvolver a solução.<br>
+Porém não conseguiu concluir a tempo.<br>
+Você foi indicado(a) para apoiar na refatoração do programa atual da Academia.
 
-Corrija todos os bugs.<br>
+### Objetivo
+
+Agora, corrija todos os bugs encontrados.
 Utilize o paradigma de POO para realizar a refatoração da solução existente.
+Crie testes unitários para a solução.
 
 ### Orientações Finais
 
