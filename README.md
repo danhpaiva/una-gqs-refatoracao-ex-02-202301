@@ -45,9 +45,9 @@ Você foi indicado(a) para apoiar na refatoração do programa atual da Academia
 
 ### Objetivo
 
-Agora, corrija todos os bugs encontrados.
-Utilize o paradigma de POO para realizar a refatoração da solução existente.
-Crie testes unitários para a solução.
+Agora, corrija todos os bugs encontrados.<br>
+Utilize o paradigma de POO para realizar a refatoração da solução existente.<br>
+Crie testes unitários para a solução.<br>
 
 ### Orientações Finais
 
